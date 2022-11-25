@@ -1,7 +1,7 @@
 {
   "name": "booking",
   "version": "0.1.0",
-  "homepage": "https://louisevl.github.io/tilUX/24-NOV-2022/",
+  "homepage": "https://louisevl.github.io/til-ux-v2/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
