@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/til-ux-v2/static/css/main.46fede15.css",
+    "main.js": "/til-ux-v2/static/js/main.b1129523.js",
+    "static/js/787.22cf53f4.chunk.js": "/til-ux-v2/static/js/787.22cf53f4.chunk.js",
+    "static/media/logocph.png": "/til-ux-v2/static/media/logocph.fb4d707c9f8b5ec6f640.png",
+    "static/media/B-Overview-et.png": "/til-ux-v2/static/media/B-Overview-et.87b34a16a27299c593ab.png",
+    "index.html": "/til-ux-v2/index.html",
+    "main.46fede15.css.map": "/til-ux-v2/static/css/main.46fede15.css.map",
+    "main.b1129523.js.map": "/til-ux-v2/static/js/main.b1129523.js.map",
+    "787.22cf53f4.chunk.js.map": "/til-ux-v2/static/js/787.22cf53f4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46fede15.css",
+    "static/js/main.b1129523.js"
+  ]
+}
